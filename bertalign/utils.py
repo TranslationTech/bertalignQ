@@ -1,4 +1,4 @@
-import re
+import regex as re
 #from googletrans import Translator
 from sentence_splitter import SentenceSplitter
 
@@ -43,23 +43,90 @@ def split_sents(text, lang):
 # r"([。？；！][」』”’〕》〗】)）\]]{0,2})"
 
 def _split_zh(text, limit=1000):
-        sent_list = []
-        text = re.sub(r'(?P<quotation_mark>([。？！](?![」』〕》〗】\]”’"\'）])))', r'\g<quotation_mark>\n', text)
-        text = re.sub(r'(?P<quotation_mark>([。？！]|…{1,2})[」』〕》〗】\])”’"\'）])', r'\g<quotation_mark>\n', text)
-
-        sent_list_ori = text.splitlines()
-        for sent in sent_list_ori:
-            sent = sent.strip()
-            if not sent:
-                continue
-            else:
-                while len(sent) > limit:
-                    temp = sent[0:limit]
-                    sent_list.append(temp)
-                    sent = sent[limit:]
+    sent_list = []
+    
+    lines = text.splitlines()
+    for line in lines:
+        line = line.strip()
+        if not line:
+            continue
+            
+        open_quotes = "「『“‘（([【《〈〔〖"
+        close_quotes = "」』”’）)]】》〉〕〗"
+        end_marks = set('。？！!?')
+        
+        stack = []
+        current_sent = []
+        
+        i = 0
+        while i < len(line):
+            char = line[i]
+            current_sent.append(char)
+            
+            if char in open_quotes:
+                stack.append(char)
+            elif char in close_quotes:
+                idx = close_quotes.index(char)
+                expected_open = open_quotes[idx]
+                if stack and stack[-1] == expected_open:
+                    stack.pop()
+                elif expected_open in stack:
+                    while stack and stack.pop() != expected_open:
+                        pass
+            elif char in ['"', "'"]:
+                if stack and stack[-1] == char:
+                    stack.pop()
+                else:
+                    stack.append(char)
+            
+            split_now = False
+            if not stack:
+                if char in end_marks:
+                    split_now = True
+                elif char in close_quotes or char in ['"', "'"]:
+                    if i > 0 and (line[i-1] in end_marks or line[i-1] == '…'):
+                        split_now = True
+            
+            if split_now:
+                while i + 1 < len(line) and (line[i+1] in close_quotes or line[i+1] in ['"', "'"] or line[i+1] in end_marks):
+                    i += 1
+                    char_next = line[i]
+                    current_sent.append(char_next)
+                    if char_next in close_quotes:
+                        idx = close_quotes.index(char_next)
+                        expected_open = open_quotes[idx]
+                        if stack and stack[-1] == expected_open:
+                            stack.pop()
+                        elif expected_open in stack:
+                            while stack and stack.pop() != expected_open:
+                                pass
+                    elif char_next in ['"', "'"]:
+                        if stack and stack[-1] == char_next:
+                            stack.pop()
+                        else:
+                            stack.append(char_next)
+                
+                sent = ''.join(current_sent).strip()
+                if sent:
+                    sent_list.append(sent)
+                current_sent = []
+                
+            i += 1
+            
+        if current_sent:
+            sent = ''.join(current_sent).strip()
+            if sent:
                 sent_list.append(sent)
 
-        return sent_list
+    final_sents = []
+    for sent in sent_list:
+        while len(sent) > limit:
+            final_sents.append(sent[:limit])
+            sent = sent[limit:]
+        if sent:
+            final_sents.append(sent)
+            
+    return final_sents
         
 def yield_overlaps(lines, num_overlaps):
     lines = [_preprocess_line(line) for line in lines]
