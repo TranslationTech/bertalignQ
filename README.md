@@ -72,58 +72,58 @@ aligner.print_sents()
     “顺山倒咧——”
     “Tim-ber…”
     
-    随着这声嘹亮的号子，一棵如巴特农神庙的巨柱般高大的落叶松轰然倒下，叶文洁感到大地抖动了一下。
+    隨著這聲嘹亮的號子，一棵如巴特農神廟的巨柱般高大的落葉松轟然倒下，葉文潔感到大地抖動了一下。
     Following the loud chant, a large Dahurian larch, thick as the columns of the Parthenon, fell with a thump, and Ye Wenjie felt the earth quake.
     
-    她拿起斧头和短锯，开始去除巨大树身上的枝丫。
+    她拿起斧頭和短鋸，開始去除巨大樹身上的枝丫。
     She picked up her ax and saw and began to clear the branches from the trunk.
     
-    每到这时，她总觉得自己是在为一个巨人整理遗体。
+    每到這時，她總覺得自己是在為一個巨人整理遺體。
     Every time she did this, she felt as though she were cleaning the corpse of a giant.
     
-    她甚至常常有这样的想象：这巨人就是自己的父亲。
+    她甚至常常有這樣的想象：這巨人就是自己的父親。
     Sometimes she even imagined the giant was her father.
     
-    两年前那个凄惨的夜晚，她在太平间为父亲整理遗容时的感觉就在这时重现。 巨松上那绽开的树皮，似乎就是父亲躯体上累累的伤痕。
+    兩年前那個悽慘的夜晚，她在太平間為父親整理遺容時的感覺就在這時重現。 巨松上那綻開的樹皮，似乎就是父親軀體上累累的傷痕。
     The feelings from that terrible night two years ago when she cleaned her father’s body in the mortuary would resurface, and the splits and cracks in the larch bark seemed to turn into the old scars and new wounds covering her father.
     
-    内蒙古生产建设兵团的六个师四十一个团十多万人就分布在这辽阔的森林和草原之间。
+    內蒙古生產建設兵團的六個師四十一個團十多萬人就分佈在這遼闊的森林和草原之間。
     Over one hundred thousand people from the six divisions and forty-one regiments of the Inner Mongolia Production and Construction Corps were scattered among the vast forests and grasslands.
     
-    刚从城市来到这陌生的世界时，很多兵团知青都怀着一个浪漫的期望：当苏修帝国主义的坦克集群越过中蒙边境时，他们将飞快地武装起来，用自己的血肉构成共和国的第一道屏障。
+    剛從城市來到這陌生的世界時，很多兵團知青都懷著一個浪漫的期望：當蘇修帝國主義的坦克叢集越過中蒙邊境時，他們將飛快地武裝起來，用自己的血肉構成共和國的第一道屏障。
     When they first left the cities and arrived at this unfamiliar wilderness, many of the corps’ “educated youths”—young college students who no longer had schools to go to—had cherished a romantic wish: When the tank clusters of the Soviet Revisionist Imperialists rolled over the Sino-Mongolian border, they would arm themselves and make their own bodies the first barrier in the Republic’s defense.
     
-    事实上，这也确实是兵团组建时的战略考虑之一。
+    事實上，這也確實是兵團組建時的戰略考慮之一。
     Indeed, this expectation was one of the strategic considerations motivating the creation of the Production and Construction Corps.
     
-    但他们渴望的战争就像草原天边那跑死马的远山，清晰可见，但到不了眼前，于是他们只有垦荒、放牧和砍伐。
+    但他們渴望的戰爭就像草原天邊那跑死馬的遠山，清晰可見，但到不了眼前，於是他們只有墾荒、放牧和砍伐。
     But the war they craved was like a mountain at the other end of the grassland: clearly visible, but as far away as a mirage. So they had to content themselves with clearing fields, grazing animals, and chopping down trees.
     
-    这些曾在“大串联”中燃烧青春的年轻人很快发现，与这广阔天地相比，内地最大的城市不过是个羊圈；在这寒冷无际的草原和森林间，燃烧是无意义的，一腔热血喷出来，比一堆牛粪凉得更快，还不如后者有使用价值。
+    這些曾在“大串聯”中燃燒青春的年輕人很快發現，與這廣闊天地相比，內地最大的城市不過是個羊圈；在這寒冷無際的草原和森林間，燃燒是無意義的，一腔熱血噴出來，比一堆牛糞涼得更快，還不如後者有使用價值。
     Soon, the young men and women who had once expended their youthful energy on tours to the holy sites of the Chinese Revolution discovered that, compared to the huge sky and open air of Inner Mongolia, the biggest cities in China’s interior were nothing more than sheep pens. Stuck in the middle of the cold, endless expanse of forests and grasslands, their burning ardor was meaningless. Even if they spilled all of their blood, it would cool faster than a pile of cow dung, and not be as useful.
     
-    但燃烧是他们的命运，他们是燃烧的一代。
+    但燃燒是他們的命運，他們是燃燒的一代。
     But burning was their fate; they were the generation meant to be consumed by fire.
     
-    于是，在他们的油锯和电锯下，大片的林海化为荒山秃岭；在他们的拖拉机和康拜因（联合收割机）下，大片的草原被犁成粮田，然后变成沙漠。
+    於是，在他們的油鋸和電鋸下，大片的林海化為荒山禿嶺；在他們的拖拉機和康拜因（聯合收割機）下，大片的草原被犁成糧田，然後變成沙漠。
     And so, under their chain saws, vast seas of forests turned into barren ridges and denuded hills. Under their tractors and combine harvesters, vast tracts of grasslands became grain fields, then deserts.
     
-    叶文洁看到的砍伐只能用疯狂来形容，高大挺拔的兴安岭落叶松、四季常青的樟子松、亭亭玉立的白桦、耸入云天的山杨、西伯利亚冷杉，以及黑桦、柞树、山榆、水曲柳、钻天柳、蒙古栎，见什么伐什么，几百把油锯如同一群钢铁蝗虫，她的连队所过之处，只剩下一片树桩。
+    葉文潔看到的砍伐只能用瘋狂來形容，高大挺拔的興安嶺落葉松、四季常青的樟子松、亭亭玉立的白樺、聳入雲天的山楊、西伯利亞冷杉，以及黑樺、柞樹、山榆、水曲柳、鑽天柳、蒙古櫟，見什麼伐什麼，幾百把油鋸如同一群鋼鐵蝗蟲，她的連隊所過之處，只剩下一片樹樁。
     Ye Wenjie could only describe the deforestation that she witnessed as madness. The tall Dahurian larch, the evergreen Scots pine, the slim and straight white birch, the cloud-piercing Korean aspen, the aromatic Siberian fir, along with black birch, oak, mountain elm, Chosenia arbutifolia—whatever they laid eyes on, they cut down. Her company wielded hundreds of chain saws like a swarm of steel locusts, and after they passed, only stumps were left.
     
-    整理好的落叶松就要被履带拖拉机拖走了，在树干另一头，叶文洁轻轻抚摸了一下那崭新的锯断面，她常常下意识地这么做，总觉得那是一处巨大的伤口，似乎能感到大树的剧痛。
+    整理好的落葉松就要被履帶拖拉機拖走了，在樹幹另一頭，葉文潔輕輕撫摸了一下那嶄新的鋸斷面，她常常下意識地這麼做，總覺得那是一處巨大的傷口，似乎能感到大樹的劇痛。
     The fallen Dahurian larch, now bereft of branches, was ready to be taken away by tractor. Ye gently caressed the freshly exposed cross section of the felled trunk. She did this often, as though such surfaces were giant wounds, as though she could feel the tree’s pain.
     
-    她突然看到，在不远处树桩的锯断面上，也有一只在轻轻抚摸的手，那手传达出的心灵的颤抖，与她产生了共振。
+    她突然看到，在不遠處樹樁的鋸斷面上，也有一隻在輕輕撫摸的手，那手傳達出的心靈的顫抖，與她產生了共振。
     Suddenly, she saw another hand lightly stroking the matching surface of the stump a few feet away. The tremors in that hand revealed a heart that resonated with hers.
     
-    那手虽然很白皙，但能够看出是属于男性的。
+    那手雖然很白皙，但能夠看出是屬於男性的。
     Though the hand was pale, she could tell it belonged to a man.
     
-    叶文洁抬头，看到抚摸树桩的人是白沐霖，一个戴眼镜的瘦弱青年，他是兵团《大生产报》的记者，前天刚到连队来采访。
+    葉文潔抬頭，看到撫摸樹樁的人是白沐霖，一個戴眼鏡的瘦弱青年，他是兵團《大生產報》的記者，前天剛到連隊來採訪。
     She looked up. It was Bai Mulin. A slender, delicate man who wore glasses, he was a reporter for the Great Production News, the corps’ newspaper. He had arrived the day before yesterday to gather news about her company.
     
-    叶文洁看过他写的文章，文笔很好，其中有一种与这个粗放环境很不协调的纤细和敏感，令她很难忘。
+    葉文潔看過他寫的文章，文筆很好，其中有一種與這個粗放環境很不協調的纖細和敏感，令她很難忘。
     Ye remembered reading his articles, which were written in a beautiful style, sensitive and fine, ill suited to the rough-hewn environment.
 
 ## Batch processing & evaluation
